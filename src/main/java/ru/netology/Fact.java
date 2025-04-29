@@ -1,6 +1,6 @@
 package ru.netology;
 
-public class Fact {
+ class Fact {
     private String id;
     private String text;
     private String type;
